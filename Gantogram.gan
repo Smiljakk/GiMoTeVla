@@ -54,7 +54,7 @@
 3. Prikupljanje potrebnih podataka]]>
             </notes>
         </task>
-        <task id="7" name="Realizacija projekta" color="#ff9900" meeting="false" start="2023-01-13" duration="3" complete="45" thirdDate="2023-01-06" thirdDate-constraint="0" expand="true">
+        <task id="7" name="Realizacija projekta" color="#ff9900" meeting="false" start="2023-01-13" duration="3" complete="100" thirdDate="2023-01-06" thirdDate-constraint="0" expand="true">
             <notes>
                 <![CDATA[1. Učitavanje podataka u izabrani softver
 2. Analiza podataka
@@ -62,7 +62,7 @@
 4. Isporučivanje rezultata]]>
             </notes>
         </task>
-        <task id="6" name="Zatvaranje projekta" color="#ff0033" meeting="false" start="2023-01-15" duration="2" complete="0" thirdDate="2023-01-17" thirdDate-constraint="0" expand="true">
+        <task id="6" name="Zatvaranje projekta" color="#ff0033" meeting="false" start="2023-01-15" duration="2" complete="15" thirdDate="2023-01-17" thirdDate-constraint="0" expand="true">
             <notes>
                 <![CDATA[1. Pisanje izveštaja
 2. Dostavljanje izveštaja
