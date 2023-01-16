@@ -62,7 +62,7 @@
 4. Isporučivanje rezultata]]>
             </notes>
         </task>
-        <task id="6" name="Zatvaranje projekta" color="#ff0033" meeting="false" start="2023-01-15" duration="2" complete="15" thirdDate="2023-01-17" thirdDate-constraint="0" expand="true">
+        <task id="6" name="Zatvaranje projekta" color="#ff0033" meeting="false" start="2023-01-15" duration="2" complete="100" thirdDate="2023-01-17" thirdDate-constraint="0" expand="true">
             <notes>
                 <![CDATA[1. Pisanje izveštaja
 2. Dostavljanje izveštaja
